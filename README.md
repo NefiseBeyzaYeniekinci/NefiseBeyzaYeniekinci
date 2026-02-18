@@ -9,7 +9,7 @@
 - 🎓 **Yazılım Mühendisliği Öğrencisi**
 - 🤖📱 **AI-Driven Mobile Development:** Yapay zeka teknolojilerini mobil platformlara entegre ederek akıllı ve kullanıcı odaklı mobil çözümler geliştirmeye odaklanıyorum.
 - 🏗️ **Microservices & Backend:** Ölçeklenebilir sistemler tasarlıyor, monolitik yapıların mikroservis mimarisine dönüşüm süreçleri üzerine çalışıyorum.
-- 🌿 **e-kin (Plant Analysis):** Görüntü işleme ve AI kullanarak bitki sağlığı analizi yapan, Türkiye'nin bitki dağılım haritasını içeren kapsamlı bir sistem geliştiriyorum.
+- 🌿 **e-kin (Plant Analysis):** Görüntü işleme ve AI kullanarak bitki sağlığı analizi yapan bir sistem geliştiriyorum.
 - 🛠️ **Enterprise & Automation:** SAP, RPA ve n8n ile iş süreçleri otomasyonu konularında deneyim sahibiyim.
 
 ---
@@ -27,19 +27,8 @@
 
 ---
 
-### My GitHub Stats 📊
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nefisebeyzay221&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefisebeyzay221&layout=compact&theme=tokyonight" />
-</p>
-
-### Contribution Graph 📈
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nefisebeyzay221&theme=tokyonight)
-
----
-
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **e-kin** | Yapay zeka destekli bitki analizi ve görüntü işleme sistemi. | Python, Kotlin, SQL, AI, Image Processing |
+| **e-kin** | Yapay zeka destekli bitki analizi ve görüntü işleme sistemi. | Python, SQL, AI, Image Processing |
 | **Microservices Architecture** | Ölçeklenebilir ve bağımsız servisler üzerine backend çalışmaları. | Java, Spring Boot, Docker |

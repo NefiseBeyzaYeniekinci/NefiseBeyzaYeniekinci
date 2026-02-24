@@ -28,4 +28,4 @@
 | :--- | :--- | :--- |
 | **e-kin** | Yapay zeka destekli bitki analizi ve görüntü işleme sistemi. | Python, Kotlin, SQL, AI, Image Processing |
 
-![Snake animation](https://raw.githubusercontent.com/NefiseBeyzaYeniekinci/NefiseBeyzaYeniekinci/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NefiseBeyzaYeniekinci/NefiseBeyzaYeniekinci/output/github-contribution-grid-snake-dark.svg)

@@ -33,10 +33,11 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/NefiseBeyzaYeniekinci/NefiseBeyzaYeniekinci/output/github-contribution-grid-snake.svg)
+
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **e-kin** | Yapay zeka destekli bitki analizi ve görüntü işleme sistemi. | Python, Kotlin, SQL, AI, Image Processing |
-| **BookVerse** | Monolitikten mikroservis mimarisine dönüştürülen kütüphane sistemi. | Java, Kotlin, Spring Boot, Docker |
 
-![Snake animation](https://raw.githubusercontent.com/NefiseBeyzaYeniekinci/NefiseBeyzaYeniekinci/output/github-contribution-grid-snake.svg)
+

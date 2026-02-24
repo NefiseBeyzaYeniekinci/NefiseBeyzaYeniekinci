@@ -27,15 +27,8 @@
 
 ### My GitHub Stats 📊
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nefisebeyzay221&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefisebeyzay221&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nefisebeyzay221/nefisebeyzay221/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NefiseBeyzaYeniekinci&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefiseBeyzaYeniekinci&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -44,4 +37,4 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **e-kin** | Yapay zeka destekli bitki analizi ve görüntü işleme sistemi. | Python, Kotlin, SQL, AI, Image Processing |
-| **Microservices Architecture** | Ölçeklenebilir backend çalışmaları. | Java, Spring Boot, Docker |
+| **BookVerse** | Monolitikten mikroservis mimarisine dönüştürülen kütüphane sistemi. | Java, Spring Boot, Docker |

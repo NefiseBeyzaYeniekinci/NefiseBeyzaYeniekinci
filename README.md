@@ -23,21 +23,9 @@
   <img src="https://skillicons.dev/icons?i=kotlin,java,spring,python,cs,docker,postgres,mysql,github,linux,tensorflow" />
 </p>
 
----
-
-### My GitHub Stats 📊
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NefiseBeyzaYeniekinci&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefiseBeyzaYeniekinci&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-![Snake animation](https://raw.githubusercontent.com/NefiseBeyzaYeniekinci/NefiseBeyzaYeniekinci/output/github-contribution-grid-snake.svg)
-
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **e-kin** | Yapay zeka destekli bitki analizi ve görüntü işleme sistemi. | Python, Kotlin, SQL, AI, Image Processing |
 
-
+![Snake animation](https://raw.githubusercontent.com/NefiseBeyzaYeniekinci/NefiseBeyzaYeniekinci/output/github-contribution-grid-snake.svg)

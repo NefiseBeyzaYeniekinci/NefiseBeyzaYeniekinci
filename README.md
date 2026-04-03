@@ -28,7 +28,7 @@
 | :--- | :--- | :--- |
 | **e-kin** | Yapay zeka destekli bitki analizi ve görüntü işleme sistemi. | Python, Kotlin, SQL, AI, Image Processing |
 | **Vesti** | Hava durumu ve kullanıcı verilerini analiz ederek kişiselleştirilmiş giyim önerileri sunan web ve mobil tabanlı sistem. | Python, Kotlin, SQL, AI, Weather API, Image Processing |
-| **Movision** | Kullanıcı tercihlerine göre akıllı içerik eşleştirmesi yapan yapay zeka destekli dizi ve film öneri platformu | TypeScript, HTML, SQL, AI |
+| **Movision** | Kullanıcı tercihlerine göre akıllı içerik eşleştirmesi yapan yapay zeka destekli dizi ve film öneri platformu | TypeScript, HTML, CSS, SQL, AI |
 | **BiAdım** | Girişimcileri, yatırımcıları ve mentörleri buluşturan yeni nesil ekosistem pazar yeri. | React.js, Vite, Firebase, Context API, Glassmorphism UI |
 
 ![Snake animation](https://raw.githubusercontent.com/NefiseBeyzaYeniekinci/NefiseBeyzaYeniekinci/output/github-contribution-grid-snake-dark.svg)

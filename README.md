@@ -8,6 +8,8 @@
 - 🤖📱 **AI-Driven Mobile Development:** Yapay zeka teknolojilerini mobil platformlara entegre ederek akıllı çözümler geliştirmeye odaklanıyorum.
 - 🏗️ **Microservices & Backend:** Ölçeklenebilir sistemler tasarlıyor, monolitik yapıların mikroservis mimarisine dönüşümü üzerine çalışıyorum.
 - 🌿 **e-kin (Plant Analysis):** Görüntü işleme ve AI kullanarak bitki sağlığı analizi yapan bir sistem geliştiriyorum.
+- 👗 **Vesti:** Yapay zeka destekli stil danışmanlığı, hava durumuna göre kombin önerileri ve sürdürülebilir moda platformu.
+- 💼 **BiAdım (Career & Networking):** Genç yetenekler için mentorluk, stratejik kariyer planlama ve profesyonel gelişim ağı.
 - 🛠️ **Enterprise & Automation:** SAP, RPA ve n8n ile iş süreçleri otomasyonu konularında deneyim sahibiyim.
 
 ---
